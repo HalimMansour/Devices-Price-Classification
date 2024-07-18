@@ -4,8 +4,8 @@
 
 The Devices Price Classification System is designed to predict and classify the prices of devices based on their specifications. This system consists of two main components:
 
-- **Python Project**: Utilizes machine learning models to predict device prices.
-- **Spring Boot Project**: Implements RESTful API endpoints to interact with the Python project for predictions and data storage.
+- **DevicePriceClassificationAPI**: Utilizes machine learning models to predict device prices.
+- **DevicePriceClassification**: Spring Boot Implements RESTful API endpoints to interact with the Python project for predictions and data storage.
 
 ## Python Project
 
