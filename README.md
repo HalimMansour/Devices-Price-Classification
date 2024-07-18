@@ -101,4 +101,4 @@ The Devices Price Classification System is designed to predict and classify the 
    - Use Postman to send device specifications to `/api/predict/{deviceId}` endpoint.
    - Verify predictions returned by the API.
 
-![Postman_hRzhemVrQB](https://github.com/user-attachments/assets/32d9e800-a228-4f2e-af4d-951579de2006)
+![Postman_hRzhemVrQB](https://github.com/user-attachments/assets/a7a7b1c4-3f48-4f23-86b3-152dc71c35bf)
