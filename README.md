@@ -1,4 +1,4 @@
-# Devices Price Classification System Documentation
+# Devices Price Classification System 
 
 ## Overview
 
