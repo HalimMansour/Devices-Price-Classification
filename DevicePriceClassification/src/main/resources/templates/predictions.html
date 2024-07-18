@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Device Price Predictions</title>
+</head>
+<body>
+    <h1>Device Price Predictions</h1>
+    <ul>
+        <th:block th:each="prediction : ${predictions}">
+            <li th:text="${prediction}"></li>
+        </th:block>
+    </ul>
+</body>
+</html>
